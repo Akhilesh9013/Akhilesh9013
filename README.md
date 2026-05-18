@@ -47,7 +47,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhilesh9013&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akhilesh9013&show_icons=true&theme=radical)
 
 ---
 
