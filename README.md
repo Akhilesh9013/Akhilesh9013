@@ -32,28 +32,27 @@
 
 ### 📈 Data Analysis & Dashboards
 - 🔹 [Sales Dashboard](https://github.com/Akhilesh710/Sales-Dashboard)
-- 🔹 [Blinkit Data Analysis](https://github.com/Akhilesh710/Blinkit-Data-Analysis)
-- 🔹 [Power BI Project](https://github.com/Akhilesh710/Power-BI-Project)
-- 🔹 [Power BI Project 2](https://github.com/Akhilesh710/Power-BI-Project-2)
+- 🔹 [Blinkit Data Analysis](https://github.com/Akhilesh9013/Blink-it-data-analysis)
+- 🔹 [HR Attrition](https://github.com/Akhilesh9013/Hr-Attrition-Power-BI)
 
 ### 🧮 SQL & Excel Projects
 - 🔹 [SQL Project](https://github.com/Akhilesh710/Sql-Project)
-- 🔹 [Excel Project](https://github.com/Akhilesh710/Excel-Project)
+- 🔹 [Vrinda Store](https://github.com/Akhilesh9013/Vrinda-Store-Using-Excel)
 
 ### 🤖 Machine Learning & Python
-- 🔹 [Stock Market Analysis](https://github.com/Akhilesh710/stock-market)
-- 🔹 [Capstone Project](https://github.com/Akhilesh710/Capstone-Project)
-- 🔹 [Capstone Project 3](https://github.com/Akhilesh710/Capstone-Project-3)
+- 🔹 [Sales_Analysis_Forecast](https://github.com/Akhilesh9013/Sales_Analysis_Forecast)
+- 🔹 [Teen Mental Health](https://github.com/Akhilesh9013/Teen-Mental-Health-EDA)
+- 🔹 [Credit Card Fraud Detection](https://github.com/Akhilesh9013/Credit-Card-Fraud-Detection)
 
 ---
 
 ## 📈 GitHub Stats
-![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhilesh710&show_icons=true&theme=radical)
+![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhilesh9013&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Akhilesh710&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Akhilesh9013&theme=radical)
 
 ---
 
