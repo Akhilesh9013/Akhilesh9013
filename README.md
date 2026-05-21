@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akhilesh  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Science+Learner;Python+Developer;ML+Enthusiast;Data+Analytics+Explorer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Scientist;Python+Developer;ML+Enthusiast;Data+Analytics+Explorer)
 
 ---
 
