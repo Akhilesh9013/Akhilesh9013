@@ -15,6 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql)
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-green)
+![Deep Learning](https://img.shields.io/badge/DeepLearning-red)
 ![Statistics](https://img.shields.io/badge/Statistics-lightgrey)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-ff69b4)
 ![Data Science](https://img.shields.io/badge/Data%20Science-purple)
@@ -34,17 +35,30 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-brightgreen)
-![Forecasting](https://img.shields.io/badge/Sales%20Forecasting-informational)
 
 ---
 
 ## 🛠 Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange)
 ![Seaborn](https://img.shields.io/badge/Seaborn-teal)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-f7931e?logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite)
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)
+![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?logo=opencv)
 
 ---
 
