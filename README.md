@@ -52,7 +52,7 @@
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Akhilesh9013&theme=radical)
+![Akhilesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhilesh9013&theme=react-dark)
 
 ---
 
