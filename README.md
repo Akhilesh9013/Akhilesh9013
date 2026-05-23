@@ -57,9 +57,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn:(https://www.linkedin.com/in/akhilesh-nishad-77b441359/)
 - 📧 Email: akhileshnishad037@gmail.com 
 
 ---
 
-⭐ *Always learning, always growing in Data Science*
+⭐ *Always learning, always growing in Data Scientist*
